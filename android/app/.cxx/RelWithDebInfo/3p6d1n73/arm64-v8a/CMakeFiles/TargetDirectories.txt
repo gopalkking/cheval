@@ -1,0 +1,2 @@
+C:/hackwit/Cheval_App/cheval/android/app/.cxx/RelWithDebInfo/3p6d1n73/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/hackwit/Cheval_App/cheval/android/app/.cxx/RelWithDebInfo/3p6d1n73/arm64-v8a/CMakeFiles/rebuild_cache.dir

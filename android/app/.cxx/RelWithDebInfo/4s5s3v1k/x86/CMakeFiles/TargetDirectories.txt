@@ -1,0 +1,2 @@
+D:/123/2025/april/cheval/android/app/.cxx/RelWithDebInfo/4s5s3v1k/x86/CMakeFiles/edit_cache.dir
+D:/123/2025/april/cheval/android/app/.cxx/RelWithDebInfo/4s5s3v1k/x86/CMakeFiles/rebuild_cache.dir
